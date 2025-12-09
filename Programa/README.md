@@ -16,38 +16,24 @@ Fortalecer las competencias metodológicas de quienes poseen formación previa e
 - Evaluación continua ponderada ✅
 - Requisito obligatorio 📅 80% de Asistencia
 
-# I. Elementos comunes de la investigación jurídica desde un enfoque tridimensional
+# I. Condiciones Necesarias para el Adecuado Desarrollo de la Investigación Jurídica
 
-## 📚 Revisión bibliográfica mediante el gestor de citas y referencias Zotero
+## 📚 Instalación del gestor de citas y referencias Zotero
 
-## 🔍 Planteamiento del problema
+## 🔍 Mapas de conocimiento abierto 
 
-## ❓ Formulación del problema
+# II. Revisión Sistemática de Literatura
 
-# II. Elementos divergentes de la investigación jurídica
-
-## 📚 Método 
+## 📚  Tema, pregunta de investigación, palabras clave y los mapas de conocimiento abierto 
  
-## 📚 Metodología
+## 📚 Conexión con Zotero: citas, notas y referencias  Chicago Manual of Style 18th edition (notes and bibliography)
+
+# III. El Protocolo de Investigación 
+
+## 📚  Estructura   
+
+## 📚  Desarrollo   
  
-## 📊 Técnicas de investigación: Cuestionario en Google Forms y Análisis de datos en Rstudio 
-
-
-# III. Sincretismo Jurídico
-
-# Estrategias:
-
-## Combinaciones de Investigación Cualitativa y Cuantitativa (Morgan, 1998)
-
-
-🧩 **QL → qt** 
-
-🔀 **ql → QT** 
-
-🔀 **qt → QL**  
-
-🧩 **QT → ql** 
-
 # 📚 Referencias bibliográficas
 
 Arroyo Cisneros, Edgar Alan, Nevárez del Rivero, Joel Ricardo y Contreras Cortéz, Luis Fernándo (Coordinadores). Derechos Humanos y Nuevas Tecnologías. Retos en el constitucionalismo democrático. Colección Tirant lo blanch, 2023. Disponible en: https://editorial.tirant.com/mex/libro/derechos-humanos-y-nuevas-tecnologias-retos-en-el-constitucionalismo-democratico-edgar-alan-arroyo-cisneros-9788411479516
