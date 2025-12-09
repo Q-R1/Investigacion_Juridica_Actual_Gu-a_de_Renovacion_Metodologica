@@ -1,13 +1,13 @@
 # 📚 Programa del curso
 
-⚖️ Maestría en Derecho
+⚖️ Investigación Jurídica Actual 
 
 - Ciclo: 2025
 - Modalidad: Presencial
-- Créditos: 6 (Teórico-Prácticos)
+
 - Horario:
-  - Viernes: 🕓 16:00 - 21:00 hrs
-  - Sábados: 🕗 9:00 - 14:00 hrs
+  - Lunes a Viernes: 🕓 16:00 - 19:00 hrs
+
 
 # Objetivo
 
