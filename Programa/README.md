@@ -82,7 +82,11 @@ Weston, Anthony. Las claves de la argumentación. Traducción de Jorge Malem. Bu
 
 Witker, Jorge. La investigación jurídica. México: UNAM, 1996.
 
-Witker, Jorge. Metodología de la investigación jurídica. 2ª ed. México: Porrúa, 2021. Disponible en: https://biblio.juridicas.unam.mx/bjv/detalle-libro/6818-metodologia-de-la-investigacion-juridica
+Witker, Jorge. Metodología de la investigación jurídica. 2ª ed. México: Porrúa, 2021. Disponible en https://biblio.juridicas.unam.mx/bjv/detalle-libro/6818-metodologia-de-la-investigacion-juridica
 
 World Justice Project. Índice de Estado de Derecho en México. Disponible en: https://worldjusticeproject.mx/indice-de-estado-de-derecho-en-mexico/
 
+# 📚 Referencias bibliográficas complementarias 
+Odar, Reynaldo Mario Tantaleán, “El problema de investigación jurídica.” Derecho y Cambio Social 2019. Disponible en https://dialnet.unirioja.es/descarga/articulo/5456267.pdf
+
+Francisco, TG , Ciencias jurídicas y complejidad: La producción de conocimiento científico jurídico . Disponible en https://doi.org/10.4067/S0718-00122021000300003( 2021 ). 10.4067/S0718-00122021000300003
